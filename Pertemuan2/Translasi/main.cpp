@@ -38,7 +38,7 @@ int main(int argc,char* argv[]){
 	glutInit(&argc,argv);
 	glutInitWindowSize(640,480);
 	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGBA);
-	glutCreateWindow("SegiEmpat");
+	glutCreateWindow("24060124130076-Johan Reinhart Calvin");
 	init();
 	glutDisplayFunc(display);
 	glutKeyboardFunc(keyboard);
