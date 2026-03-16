@@ -1,10 +1,10 @@
 
-nama,nim, penjelasan code dan gambar hasil
-Nama  :Johan Reinhart Calvin
-NIM  :24060124130076
+nama,nim, penjelasan code dan gambar hasil  
+Nama  :Johan Reinhart Calvin  
+NIM  :24060124130076  
 
-Projek1 = File bawaan glut
-Projek2: 
+Projek1 = File bawaan glut  
+Projek2:  
 ![test](Gambar/Projek2.png)
 
 
