@@ -5,7 +5,7 @@ NIM  :24060124130076
 
 Projek1 = File bawaan glut
 Projek2: 
-![test](./PraktikkumGTIA1/Pertemuan1/Gambar/Projek2.png)
+![test](Gambar/Projek2.png)
 
 
 
