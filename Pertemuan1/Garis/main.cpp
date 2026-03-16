@@ -14,7 +14,7 @@ int main(int argc, char* argv[]){
 	glutInit(&argc,argv);
 	glutInitWindowSize(640,480);
 	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGBA);
-	glutCreateWindow("Membuat Garis");
+	glutCreateWindow("24060124130076-Johan Reinhart Calvin");
 	glutDisplayFunc(Garis);
 	glClearColor(0.0f,0.0f,1.0f,1.0f);
 	glutMainLoop();
